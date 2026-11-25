@@ -10,6 +10,7 @@ defaults:
   tools:
     node: "24"
 
+
 jobs:
   test:
     defaults:
